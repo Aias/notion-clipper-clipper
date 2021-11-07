@@ -73,6 +73,9 @@ const makeNewProps = (properties = {}) => {
 		Tags: {
 			// Tags
 			multi_select: properties['Tags'].multi_select
+		},
+		Content: {
+			rich_text: properties['Content'].rich_text
 		}
 	};
 
