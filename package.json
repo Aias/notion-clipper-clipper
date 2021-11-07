@@ -1,0 +1,12 @@
+{
+  "name": "notion-clipper-clipper",
+  "version": "1.0.0",
+  "description": "Remove document body from links saved by Notion's web clipper.",
+  "main": "index.js",
+  "author": "Nick Trombley",
+  "license": "MIT",
+  "dependencies": {
+    "@notionhq/client": "^0.4.6",
+    "dotenv": "^10.0.0"
+  }
+}
